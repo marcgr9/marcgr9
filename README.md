@@ -1,4 +1,4 @@
-Check out my [website ](https://gruita.ro) :)
+[gruita.ro](https://gruita.ro)
 
 <!--
 **marcgr9/marcgr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
